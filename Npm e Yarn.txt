@@ -1,0 +1,31 @@
+Diferenças na API:
+           NPM  |  YARN
+
+       npm init | yarn init
+npm install ... | yarn add ...
+ npm update ... | yarn upgrade ...
+ npm remove ... | yarn remove ...
+
+
+Inside that directory, you can run several commands:
+
+  yarn start
+    Starts the development server.
+
+  yarn build
+    Bundles the app into static files for production.
+
+  yarn test
+    Starts the test runner.
+
+  yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd first
+  yarn start
+
+Happy hacking!
+Done in 399.04s.
